@@ -10,13 +10,9 @@ baseurl: ""
 title: Soporte-Slender-130
 Description of the Site: usamos esta pagina para que las personas visiten a nuestro sitio oficial para que consulte nuestro publicidad
 description: Somos de la empresa de Soporte y Mantenimiento, LLevamos casi 3 años, NUESTROS TECNICOS VIENEN DE LAS MEJORES ESCUELAS DE TODO EL MUNDO
-
 Tambien ofrecemos mantenimiento preventivo y Correctivo para brindarle un buen servicio 
-
 nosotros usamos herramienta para reparar dispositivos electronicos como por ejemplo laptops celulares cuando tienen fallas. Es por eso que estamos aqui para ayudarte a como solucionarlo 
-
 también brindamos apoyo técnico vía remota.
-
 URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -27,7 +23,7 @@ favicon-url:
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 
-# Social Media and Contact:Tambien No te olvides contactarnos realizando las siguientes fuentes mediante redes sociales facebook twiter etc. Para que usted nos conosca quienes y porque ayudamos a las personas a darle soporte y mantenimiento
+# Social Media and Contact:Tambien No te olvides contactarnos realizando las siguientes fuentes mediante redes sociales facebook twiter etc. Para que usted nos conosca quienes somos y porque ayudamos a las personas a darle soporte y mantenimiento
 mantenimiento
 # If you don't want to use any icon, you can leave them blank.
 email: cesar117bc@gmail.com
