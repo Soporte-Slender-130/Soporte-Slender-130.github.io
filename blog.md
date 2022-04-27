@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: BlogG
 layout: blog
 ---
 
