@@ -9,11 +9,15 @@ baseurl: ""
 # Title of the Site
 title: Soporte-Slender-130
 Description of the Site: usamos esta pagina para que las personas visiten a nuestro sitio oficial para que consulte nuestro publicidad
-description:  Somos de la empresa de Soporte y Mantenimiento, LLevamos casi 3 años, NUESTROS TECNICOS VIENEN DE LAS MEJORES ESCUELAS DE TODO EL MUNDO
+description: Somos de la empresa de Soporte y Mantenimiento, LLevamos casi 3 años, NUESTROS TECNICOS VIENEN DE LAS MEJORES ESCUELAS DE TODO EL MUNDO
+
 Tambien ofrecemos mantenimiento preventivo y Correctivo para brindarle un buen servicio 
-Nosotros usamos herramienta para reparar dispositivos electronicos como por ejemplo laptops celulares cuando tienen fallas. Es por eso que estamos aqui para ayudarte a como solucionarlo 
-también brindamos apoyo técnico vía remota. 
-# URL of Image of the Site
+
+nosotros usamos herramienta para reparar dispositivos electronicos como por ejemplo laptops celulares cuando tienen fallas. Es por eso que estamos aqui para ayudarte a como solucionarlo 
+
+también brindamos apoyo técnico vía remota.
+
+URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
